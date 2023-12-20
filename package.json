@@ -1,0 +1,13 @@
+{
+  "name": "websocketsChatRealTime",
+  "version": "0.0.1",
+  "description": "Comunication via socketIO or websockets in nodejs",
+  "main": "src/index.js",
+  "author": "Delcio Capolo <delciocapolo096@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "ts-node-dev": "^2.0.0"
+  }
+}
