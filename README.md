@@ -10,3 +10,8 @@
 * Socket.IO is a library that enables *low-latency*, *bidirectional* and *event-based* communication between a client and a server.
 * you can read more in, [Socket.IO' site](https://socket.io/docs/v4)
 * socketio are used most for communication bidirectional in real time, in chats. But we can't use for all activities, there are particular usage scenarios.
+
+### curiosidades
+* generally the websocket is divided in 2 points:
+    * when we want receive a message(on event)
+    * and when we want emit a message(emit event)
